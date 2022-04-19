@@ -1,5 +1,3 @@
-
-as
 with client_Info as
   (
   select IdentificacionCliente
